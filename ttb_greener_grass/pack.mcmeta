@@ -1,0 +1,16 @@
+{
+    "pack": {
+        "pack_format": 5,
+        "description": [
+            {
+                "text": "Greener Grass",
+                "color": "aqua"
+            },
+            "\n",
+            {
+                "text": "M1.16+",
+                "color": "dark_gray"
+            }
+        ]
+    }
+}
